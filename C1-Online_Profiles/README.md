@@ -13,6 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [kengirard](https://www.linkedin.com/in/kengirard/)
 
 ### Resume
-Working on writing such. It has been a long time since I needed one.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+[Ken Girard](https://github.com/krgirard33/liftoff-assignments/blob/master/C1-Online_Profiles/resume.md)
