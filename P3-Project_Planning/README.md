@@ -19,3 +19,4 @@ Not really happy with the look. Wasted to much time learning how to use Moqups.
 
 ### Github Repository
 * [Ember @ Github](https://github.com/krgirard33/Ember)
+* [EmberV2 @ Github](https://github.com/krgirard33/emberv2)
